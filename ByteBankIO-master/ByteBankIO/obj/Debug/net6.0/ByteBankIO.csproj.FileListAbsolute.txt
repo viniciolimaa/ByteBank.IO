@@ -1,0 +1,45 @@
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.exe
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.deps.json
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.runtimeconfig.json
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.dll
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.pdb
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.AssemblyReference.cache
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfoInputs.cache
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfo.cs
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.CoreCompileInputs.cache
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.dll
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\refint\ByteBankIO.dll
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.pdb
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.genruntimeconfig.cache
+D:\Carreira\Alura\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ref\ByteBankIO.dll
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.exe
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.deps.json
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.runtimeconfig.json
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.dll
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.pdb
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.AssemblyReference.cache
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfoInputs.cache
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfo.cs
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.CoreCompileInputs.cache
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.dll
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\refint\ByteBankIO.dll
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.pdb
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.genruntimeconfig.cache
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ref\ByteBankIO.dll
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.AssemblyReference.cache
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfoInputs.cache
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfo.cs
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.CoreCompileInputs.cache
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.dll
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\refint\ByteBankIO.dll
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.pdb
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.exe
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.deps.json
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.runtimeconfig.json
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.dll
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.pdb
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.genruntimeconfig.cache
+D:\Carreira\Alura\C# e Orientação a Objetos coleções, arquivos e bibliotecas\C# trabalhando com arquivos\Topico 1\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ref\ByteBankIO.dll
